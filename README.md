@@ -27,10 +27,6 @@ Detective :shipit: is still investigating.
 
 ![+](https://31.media.tumblr.com/eab6bb3e60a77c54a1f0c3954b1b018d/tumblr_noil3axrUf1qhnszoo1_400.gif)
 
-![@](http://img.rlsbb.com/images/OA8BxqVv.jpg)
-
-![@](https://enterprise.github.com/assets/aws/aws-animation-teaser-thumb-e378aed1c2e3552df63c89b4a002ad30.png)
-
 ![~](http://www.clker.com/cliparts/e/c/c/3/1330741709642872231love-birds-on-branch-650x550-hi.png)  
 
 Come Little Children  - E. A . Poe
