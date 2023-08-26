@@ -40,12 +40,12 @@ Kraj nje će mladost sjati ista,
 I mirna priroda će dalje  
 Ljepotom vječitom da blista.  
 
-yes          yes          yesyes
-yesyes    yes      yes         yes
-yes  yes  yes     yes           yes
-yes    yesyes     yes           yes
-yes       yesye      yes        yes
-yes          yes           yesyes
+yes          yes          yesyes  
+yesyes    yes      yes         yes  
+yes  yes  yes     yes           yes  
+yes    yesyes     yes           yes  
+yes       yesye      yes        yes  
+yes          yes           yesyes  
 
 U mladosti kob je htjela kleta  
 da pohodim sred širokog svijeta 
@@ -70,6 +70,6 @@ niti Ljubav, makar tvoja bila.
 Smrt bii ispod otrovanog vala,  
 na dnu mu se grobnica skrivala  
 s pokojnikom što tu htjede dati  
-svu utjehu svojoj crnoj mašti, 
+svu utjehu svojoj crnoj mašti,  
 i duh čiji pust i pun čemera  
 stvori Eden od tamnog jezera.
