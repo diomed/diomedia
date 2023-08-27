@@ -7,6 +7,12 @@ marelissmia
 more lisica
 
 
+**svatko ima svoje razloge
+i kad razlozi ne postoje**
+
+
+
+
 marzipan
 
 
