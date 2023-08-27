@@ -13,5 +13,10 @@ podstrek - ?
 
 #CBE5E1 - color of kida light|grayish blue ~~ maybe for text (?)
 
+e2ecf8
+
+
+
+
 .sap
 
