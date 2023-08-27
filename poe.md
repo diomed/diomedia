@@ -48,7 +48,7 @@ yes       yesye      yes        yes
 yes          yes           yesyes  
 
 U mladosti kob je htjela kleta  
-da pohodim sred širokog svijeta 
+da pohodim sred širokog svijeta   
 jedno mjesto meni od svih ljepše –  
 tako ljupka usamljenost bješe  
 tog jezera, sveg u crnom stijenju,  
