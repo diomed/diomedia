@@ -1,4 +1,11 @@
-# NEOBIČAN PLANEt
+# NEOBIČAN PLANET
+
+Pasqarel | Pasquarel
+Palomino
+
+Palomino squirrel
+
+emblem
 
 object permanence
 
@@ -13,7 +20,7 @@ podstrek - ?
 
 #CBE5E1 - color of kida light|grayish blue ~~ maybe for text (?)
 
-e2ecf8
+#e2ecf8
 
 
 
