@@ -10,12 +10,14 @@ more lisica
 marzipan
 
 
-# [Diomedia](https://diomed.github.io/diomedia/)) :anchor: :trident:
+# [Diomedia](https://diomed.github.io/diomedia) :anchor: :trident:
 
 «🕸🔱🕸»
 «·|·»  
 ==microfiber==
 🕸🔱🕸
+
+Poljane diomedie
 
 furtive  
 
