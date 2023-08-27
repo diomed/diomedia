@@ -101,7 +101,6 @@ categories
 'General Category'
 'World Online'
 
-![x](http://i8.photobucket.com/albums/a38/whitesroad/SPEED/forest4.jpg)
 ```
 INSERT INTO `smf_smileys` (`ID_SMILEY`, `code`, `filename`, `description`, `smileyRow`, `smileyOrder`, `hidden`) VALUES
 (28, ':scared:', 'Scary-Smile.png', 'Scared', 0, 10, 0),
