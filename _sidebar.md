@@ -1,3 +1,5 @@
 - [Main](README)
 - [Poe](poe.md)
 - [Eat Prey Meow](eatpreymeow.md)
+- [Collections](collections.md)
+- [Tailwind CDN](tailwind cdn.md)
