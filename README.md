@@ -6,15 +6,15 @@ marelissmia
 ---
 more lisica
 
-Prolazimo tako gradom  
+_Prolazimo tako gradom  
 moj osmijeh i ja  
 on na licu mom  
-ja bez lica svog.
+ja bez lica svog._
 
-Jasni ljudi jasno vide,  
+_Jasni ljudi jasno vide,  
 al ne znaju da  
 ne postojimo  
-ni osmijeh ni ja.
+ni osmijeh ni ja._
 
 
 **svatko ima svoje razloge
