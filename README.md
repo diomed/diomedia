@@ -10,7 +10,7 @@ more lisica
 marzipan
 
 
-# [Diomedia](diomed.github.io/dcsfy) :anchor: :trident:
+# [Diomedia](https://diomed.github.io/diomedia/)) :anchor: :trident:
 
 «🕸🔱🕸»
 «·|·»  
