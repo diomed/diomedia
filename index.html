@@ -12,7 +12,34 @@
 
   <!-- Default Theme (see https://docsify.js.org/#/themes) -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-<style>.scrollup {
+<style>
+  
+body {
+  --sb-track-color: #f2f9fd;
+  --sb-thumb-color: #7087e8;
+  --sb-size: 10px;
+
+  scrollbar-color: var(--sb-thumb-color) 
+                   var(--sb-track-color);
+}
+
+body::-webkit-scrollbar {
+  width: var(--sb-size) 
+}
+
+body::-webkit-scrollbar-track {
+  background: var(--sb-track-color);
+  border-radius: 10px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: var(--sb-thumb-color);
+  border-radius: 10px;
+  
+  }
+  
+  
+  .scrollup {
     background: url("go2top.png") no-repeat scroll 0 0 transparent;
     bottom: 40px;
     display: none;
