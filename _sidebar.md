@@ -1,4 +1,5 @@
 - [Main](README)
+- [OCR GIST](http://git.io/vtMyW)
 - [Repo](https://github.com/diomed/diomedia)
 - [Poe](poe.md)
 - [Eat Prey Meow](eatpreymeow.md)
