@@ -5,3 +5,6 @@
 - [Collections](collections.md)
 - [Tailwind CDN](tailwind_cdn.md)
 - [Gist](https://gist.github.com/diomed/b3a732fe8aab5a2d9aa5a7d2cce4aa55)
+- [Unsplash](unsplash.md)
+- [Quotes](quotes.md)
+- [Prozac Nation](prozac-nation.md)
