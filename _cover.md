@@ -5,4 +5,4 @@
 
 <!-- background color // can it be gradient? check it out & lets see -->
 
-![color](#f0f0f0)
+![color](#3f51b5)
