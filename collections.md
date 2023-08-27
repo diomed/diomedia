@@ -1,3 +1,5 @@
+# NEOBIČAN PLANEt
+
 object permanence
 
 
@@ -5,15 +7,11 @@ sv. Abažur
 
 text-indigo-500
 
-**NEOBIČAN PLANET**
-
-**The Lord of Birds**
+## _The Lord of Birds_
 
 podstrek - ?
 
-#CBE5E1 - color of ---
-
-Odrey - Audrey
+#CBE5E1 - color of kida light|grayish blue ~~ maybe for text (?)
 
 .sap
 
