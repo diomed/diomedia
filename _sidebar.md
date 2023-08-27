@@ -1,5 +1,7 @@
 - [Main](README)
+- [Repo](https://github.com/diomed/diomedia)
 - [Poe](poe.md)
 - [Eat Prey Meow](eatpreymeow.md)
 - [Collections](collections.md)
-- [Tailwind CDN](tailwind cdn.md)
+- [Tailwind CDN](tailwind_cdn.md)
+- [Gist](https://gist.github.com/diomed/b3a732fe8aab5a2d9aa5a7d2cce4aa55)
