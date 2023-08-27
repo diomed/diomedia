@@ -6,12 +6,22 @@ marelissmia
 ---
 more lisica
 
+Prolazimo tako gradom  
+moj osmijeh i ja  
+on na licu mom  
+ja bez lica svog.
+
+Jasni ljudi jasno vide,  
+al ne znaju da  
+ne postojimo  
+ni osmijeh ni ja.
+
 
 **svatko ima svoje razloge
 i kad razlozi ne postoje**
 
 
-
+![img](https://assets.codepen.io/662872/internal/avatars/users/default.png?fit=crop&format=auto&height=512&version=1555914571&width=512)
 
 marzipan
 
@@ -92,7 +102,7 @@ categories
 'World Online'
 
 ![x](http://i8.photobucket.com/albums/a38/whitesroad/SPEED/forest4.jpg)
-
+```
 INSERT INTO `smf_smileys` (`ID_SMILEY`, `code`, `filename`, `description`, `smileyRow`, `smileyOrder`, `hidden`) VALUES
 (28, ':scared:', 'Scary-Smile.png', 'Scared', 0, 10, 0),
 (18, ':ninja:', 'Ninja.png', 'Ninja', 0, 25, 0),
@@ -121,6 +131,7 @@ INSERT INTO `smf_smileys` (`ID_SMILEY`, `code`, `filename`, `description`, `smil
 (11, ':P', 'Tounge.png', 'Tongue', 0, 11, 0),
 (20, ':>', 'Woot.png', 'hey hey', 0, 17, 0),
 (22, '<3', 'Love.png', 'In Love ', 0, 19, 0);
+```
 
 ameo - Carson Clay [I cry, when angels deserve to die]
 
@@ -170,14 +181,3 @@ AND t.`TABLE_SCHEMA` = 'database_name'
 ORDER BY 1
 [/code]
 [b]Replace "database_name" with the name of your database[/b] and edit the statement template in the parameters of the CONCAT function to have the target character set (and/or collation) of your choice. After that you can just take the statements and batch execute them in the MySQL client of your choice (eg. phpmyadmin, Navicat, the official MySQL client, etc.). Of course, you're strongly advised to make a backup of your database before you start messing around with character set (and/or collation) conversions.
-
-
-Prolazimo tako gradom  
-moj osmijeh i ja  
-on na licu mom  
-ja bez lica svog.
-
-Jasni ljudi jasno vide,  
-al ne znaju da  
-ne postojimo  
-ni osmijeh ni ja.
