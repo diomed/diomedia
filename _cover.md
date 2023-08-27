@@ -1,8 +1,8 @@
 
 <!-- background image -->
 
-![](_media/bg.png)
+![cover-img](https://assets.codepen.io/47791/colorful-smoke.jpg);
 
-<!-- background color -->
+<!-- background color // can it be gradient? check it out & lets see -->
 
 ![color](#f0f0f0)
