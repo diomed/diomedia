@@ -1,3 +1,6 @@
+//sve ovo u sliding react kartice //
+
+
 "That water will make you calm. It will make you happy, empty… You'll be born again, just like me"
 
 
@@ -12,3 +15,10 @@ No matter how big a nation is, it is no stronger than its weakest people, and as
 
 
 “Nationalism is an infantile thing. It is the measles of mankind.” ― Albert Einstein
+
+
+“Man is the only creature who refuses to be what he is.” 
+― Albert Camus
+
+
+
