@@ -29,6 +29,11 @@ Without requirements or design, programming is the art of adding bugs to an empt
 ― Groucho Marx
 
 
+A fine quotation is a diamond on the finger of a man of wit, 
+and a pebble in the hand of a fool.
+
+Joseph Roux
+
 
   "We all make choices, but in the end our choices make us."
 
