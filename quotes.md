@@ -21,4 +21,5 @@ No matter how big a nation is, it is no stronger than its weakest people, and as
 ― Albert Camus
 
 
-
+Without requirements or design, programming is the art of adding bugs to an empty text file." 
+– Louis Srygley
