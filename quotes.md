@@ -23,3 +23,7 @@ No matter how big a nation is, it is no stronger than its weakest people, and as
 
 Without requirements or design, programming is the art of adding bugs to an empty text file." 
 – Louis Srygley
+
+
+“Blessed are the cracked, for they shall let in the light.” 
+― Groucho Marx
