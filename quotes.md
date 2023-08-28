@@ -4,3 +4,8 @@
 I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.
 
 — Lao Tzu
+
+
+No matter how big a nation is, it is no stronger than its weakest people, and as long as you keep a person down, some part of you has to be down there to hold him down, so it means you cannot soar as you might otherwise.
+
+— Marian Anderson
