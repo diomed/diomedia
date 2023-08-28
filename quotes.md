@@ -27,3 +27,9 @@ Without requirements or design, programming is the art of adding bugs to an empt
 
 “Blessed are the cracked, for they shall let in the light.” 
 ― Groucho Marx
+
+
+
+  "We all make choices, but in the end our choices make us."
+
+- Andrew Ryan
