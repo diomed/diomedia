@@ -60,7 +60,9 @@ body::-webkit-scrollbar-thumb {
       
       //coverpage: true,//
       name: 'Diomedia',
-      plugins: [EditOnGithubPlugin.create(docBase, docEditBase, title)],
+      plugins: [
+        EditOnGithubPlugin.create(docBase, docEditBase, title)
+      ],
       // Sidebar Configuration
       auto2top: true,
       loadSidebar: true,
@@ -84,6 +86,6 @@ body::-webkit-scrollbar-thumb {
   <!-- Recommended -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
-<script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
 </body>
 </html>
