@@ -46,6 +46,10 @@ Joseph Roux
 
  "Oh yeah, life goes on. Long after the thrill of living is gone."
 
+Those to whom evil is done
+do evil in return. - W. H. Auden
+
+
 
 Joseph Pulitzer
 Ne postoji zločin, ne postoji lukavstvo, ne postoji trik, ne postoji
