@@ -13,6 +13,8 @@ Canela - great font - use it in Typora
 
 Melo
 
+Julia Mono Light
+
 ```
 @font-face {
     font-family: JuliaMono-Light;
@@ -20,10 +22,16 @@ Melo
 }
 ```
 
+Virgil
 
 ```
 @font-face {
   font-family: Virgil;
   src: url('https://virgil.excalidraw.com/Virgil.woff2')
 }
+```
+
+Lora
+```
+@import url(http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&subset=latin,latin-ext);
 ```
