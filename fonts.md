@@ -15,3 +15,11 @@ Melo
     src: url("https://cdnjs.cloudflare.com/ajax/libs/juliamono/0.048/JuliaMono-Light.woff2");
 }
 ```
+
+
+```
+@font-face {
+  font-family: Virgil;
+  src: url('https://virgil.excalidraw.com/Virgil.woff2')
+}
+```
