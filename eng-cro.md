@@ -11,8 +11,7 @@ protumači - interpret
 indomitable - neukrotiv
 
 scamp - nitkov hulja nestaško
-we got sidetracked - odlutali smo
-
+ chagrin - žalost/razočaranje
 
 we got sidetracket - odlutali smo
 
