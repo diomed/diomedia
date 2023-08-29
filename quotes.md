@@ -39,6 +39,11 @@ Joseph Roux
 
 - Andrew Ryan
 
+
+“Has it ever struck you that life is all memory, except for the one present moment that goes by you so quick you hardly catch it going?”
+― Tennessee Williams
+
+
 ''Žalim prošlost, nadam se budućnosti, 
 nezadovoljan sam sadašnjošću – to je moj život.'' Čajkovski
 
