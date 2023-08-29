@@ -70,3 +70,4 @@ malog broja koji su dobri kao samo proljeće."
 ''Žalim prošlost, nadam se budućnosti, 
 nezadovoljan sam sadašnjošću – to je moj život.'' Čajkovski
 
+**“It's a strange world. Let's keep it that way.” Warren Ellis**
