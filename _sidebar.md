@@ -8,5 +8,6 @@
 - [Quotes](quotes.md)
 - [Prozac Nation](prozac-nation.md)
 - [Youtube](youtube.md)
+- [FONTS](fonts.md)
 
 - [OCR GIST](https://gist.github.com/diomed/a671e8fb41dd192e2dc4)
