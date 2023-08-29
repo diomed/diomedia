@@ -6,8 +6,6 @@
 ![kid in swimming pool](https://unsplash.com/photos/h1vdmVQqPmM)
 ![true american flag - HQ](https://unsplash.com/photos/Tdwu35bCUj0)
 
-https://unsplash.com/photos/aN_Rhi-8Fug
-https://unsplash.com/photos/Z7TGjOb7Hok
 https://unsplash.com/photos/FD9jL29KD5E
 https://unsplash.com/photos/HWs9HTMzf6Y
 https://unsplash.com/photos/uPNGcb05lV4
