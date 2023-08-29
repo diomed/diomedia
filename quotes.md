@@ -44,6 +44,9 @@ Joseph Roux
 ― Tennessee Williams
 
 
+ "Oh yeah, life goes on. Long after the thrill of living is gone."
+
+
 ''Žalim prošlost, nadam se budućnosti, 
 nezadovoljan sam sadašnjošću – to je moj život.'' Čajkovski
 
