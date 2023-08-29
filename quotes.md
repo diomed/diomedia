@@ -38,3 +38,7 @@ Joseph Roux
   "We all make choices, but in the end our choices make us."
 
 - Andrew Ryan
+
+''Žalim prošlost, nadam se budućnosti, 
+nezadovoljan sam sadašnjošću – to je moj život.'' Čajkovski
+
