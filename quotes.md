@@ -44,11 +44,13 @@ Joseph Roux
 ― Tennessee Williams
 
 
+Crocodiles are easy. They try to kill and eat you. People are harder. Sometimes they pretend to be your friend first. 
+- Steve Irwin (1962-2006)
+
  "Oh yeah, life goes on. Long after the thrill of living is gone."
 
 Those to whom evil is done
 do evil in return. - W. H. Auden
-
 
 
 Joseph Pulitzer
