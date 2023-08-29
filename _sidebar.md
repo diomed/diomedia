@@ -1,5 +1,4 @@
 - [Main](README)
-- [OCR GIST](https://gist.github.com/diomed/a671e8fb41dd192e2dc4)
 - [Repo](https://github.com/diomed/diomedia)
 - [Poe](poe.md)
 - [Eat Prey Meow](eatpreymeow.md)
@@ -8,3 +7,6 @@
 - [Unsplash](unsplash.md)
 - [Quotes](quotes.md)
 - [Prozac Nation](prozac-nation.md)
+- [Youtube](youtube.md)
+
+- [OCR GIST](https://gist.github.com/diomed/a671e8fb41dd192e2dc4)
