@@ -35,8 +35,6 @@ https://unsplash.com/photos/-NHOw1_02Zg | red tulip flowers
 
 https://unsplash.com/photos/InwWyYGvSQk |  boy
 
-https://unsplash.com/photos/agPWVfDlApM | boy rebel
-
 https://unsplash.com/photos/n5qeLebIxpU | kid
 https://unsplash.com/photos/vlwfcS3lw4o
 
