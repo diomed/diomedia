@@ -47,6 +47,20 @@ Joseph Roux
  "Oh yeah, life goes on. Long after the thrill of living is gone."
 
 
+Joseph Pulitzer
+Ne postoji zločin, ne postoji lukavstvo, ne postoji trik, ne postoji
+prijevara, ne postoji porok, koji ne žive od tajnosti. Iznesite ih na
+vidjelo, opišite ih, napadajte ih... prije ili kasnije narod će ih pomesti
+
+
+
+"Jedina stvar koja može pokvariti dan su ljudi. 
+Ljudi su uvijek bili ograničenje sreće osim jako 
+malog broja koji su dobri kao samo proljeće."
+- Ernest Hemingway 
+ 
+
+
 ''Žalim prošlost, nadam se budućnosti, 
 nezadovoljan sam sadašnjošću – to je moj život.'' Čajkovski
 
