@@ -31,7 +31,10 @@ https://unsplash.com/photos/JsTmUnHdVYQ | analog clock roman numerals
 
 https://unsplash.com/photos/-NHOw1_02Zg | red tulip flowers
 
+https://unsplash.com/photos/5zgUU6eX50Y | Apple Cool  
+https://unsplash.com/photos/PamFFHL6fVY | Trevi Fountain, Rome   
 
+https://unsplash.com/photos/suLgJZ1edT4 | abstract blue
 
 https://unsplash.com/photos/InwWyYGvSQk |  boy
 
