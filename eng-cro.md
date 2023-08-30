@@ -10,10 +10,16 @@ protumači - interpret
 
 indomitable - neukrotiv
 
-scamp - nitkov hulja nestaško
- chagrin - žalost/razočaranje
+scamp - nitkov hulja nestaško  
+ chagrin - žalost/razočaranje  
 
-we got sidetracket - odlutali smo
+
+ vagary - 
+
+
+ somber -
+
+we got sidetracked - odlutali smo
 
 
 
