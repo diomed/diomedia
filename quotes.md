@@ -44,6 +44,10 @@ Joseph Roux
 ― Tennessee Williams
 
 
+“This is my last message to you: in sorrow, seek happiness.”
+― Fyodor Dostoyevsky, The Brothers Karamazov
+ 
+
 Crocodiles are easy. They try to kill and eat you. People are harder. Sometimes they pretend to be your friend first. 
 - Steve Irwin (1962-2006)
 
@@ -63,8 +67,7 @@ vidjelo, opišite ih, napadajte ih... prije ili kasnije narod će ih pomesti
 "Jedina stvar koja može pokvariti dan su ljudi. 
 Ljudi su uvijek bili ograničenje sreće osim jako 
 malog broja koji su dobri kao samo proljeće."
-- Ernest Hemingway 
- 
+- Ernest Hemingway
 
 
 ''Žalim prošlost, nadam se budućnosti, 
