@@ -17,3 +17,10 @@ li{
   list-style-type: '↠';  /*dashing through the sno*/
 }
 ```
+
+image + caption in MD
+
+```
+![](path_to_image)
+*image_caption*
+```
