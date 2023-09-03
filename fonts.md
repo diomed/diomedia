@@ -38,3 +38,6 @@ Lora
 
 Libre Caslon
 https://github.com/ertekinno/libre-caslon-condensed
+
+
+[junction-bold.svg](https://raw.githubusercontent.com/theleagueof/junction/master/webfonts/junction-bold.svg)
