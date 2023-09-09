@@ -1,5 +1,7 @@
 //sve ovo u sliding react kartice //
 
+"The best laid plans of mice and men.........are about equal."
+
 
 "That water will make you calm. It will make you happy, empty… You'll be born again, just like me"
 
