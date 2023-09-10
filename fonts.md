@@ -36,8 +36,15 @@ Lora
 @import url(http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&subset=latin,latin-ext);
 ```
 
+
 Libre Caslon
 https://github.com/ertekinno/libre-caslon-condensed
 
 
 [junction-bold.svg](https://raw.githubusercontent.com/theleagueof/junction/master/webfonts/junction-bold.svg)
+
+
+Atrament [premium]
+```
+https://nomail.com.ua/api/font-face/42592.css?__cf_chl_tk=vNItQ7iMylH4DaV6bNlwX0_EMWH6wjLhsK6HZiZCJ8Q-1694333687-0-gaNycGzNHVA
+```
