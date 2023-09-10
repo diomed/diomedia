@@ -1,4 +1,15 @@
+TAILWIND
+
 ```<script src="https://cdn.tailwindcss.com"></script>```
+
+
+MARX
+
+```
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://unpkg.com/marx-css/css/marx.min.css">
+```
+
 
 ⌘
 
