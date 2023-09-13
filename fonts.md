@@ -58,3 +58,9 @@ Zilla Slab
 ```
 @import url(https://code.cdn.mozilla.net/fonts/zilla-slab.css);
 ```
+
+
+EB Garamond
+```
+@import url(https://fonts.bunny.net/css?family=eb-garamond:400|overpass:200,400);
+```
