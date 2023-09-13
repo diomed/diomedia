@@ -56,5 +56,5 @@ https://nomail.com.ua/api/font-face/42589.css
 Zilla Slab
 
 ```
-https://code.cdn.mozilla.net/fonts/zilla-slab.css
+@import url(https://code.cdn.mozilla.net/fonts/zilla-slab.css);
 ```
