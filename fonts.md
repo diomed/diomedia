@@ -35,7 +35,11 @@ Lora
 ```
 @import url(http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&subset=latin,latin-ext);
 ```
+Fira Sans [from Mozilla]
 
+```
+<link rel="stylesheet" href="https://code.cdn.mozilla.net/fonts/fira.css">
+```
 
 Libre Caslon
 https://github.com/ertekinno/libre-caslon-condensed
