@@ -33,8 +33,6 @@ https://unsplash.com/photos/Wk59jZg_1es
 https://unsplash.com/photos/vbVR4d-qDEg
 
 
-https://unsplash.com/photos/qXgs8u1vqnc |  book leaves
-
 https://unsplash.com/photos/zcYRw547Dps | time lapse tennis ball
 
 https://unsplash.com/photos/JsTmUnHdVYQ | analog clock roman numerals
