@@ -4,9 +4,14 @@ FORTNITE FONT [Burbank]
 https://fortnitefontgenerator.com
 ```
 
+# Armata
+
+@import url(https://fonts.bunny.net/css?family=armata:400);
+
+
 ACME
 
-@import url("https://fonts.googleapis.com/css2?family=Acme&display=swap");
+@import url(https://fonts.bunny.net/css?family=acme:400);
 
 
 Changa One - for titles / Acme
