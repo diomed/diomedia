@@ -8,6 +8,8 @@ Actions - postupci
 protumači - interpret
 
 
+
+
 indomitable - neukrotiv
 
 scamp - nitkov hulja nestaško  
