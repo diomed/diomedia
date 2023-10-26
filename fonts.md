@@ -13,6 +13,10 @@ ACME
 
 @import url(https://fonts.bunny.net/css?family=acme:400);
 
+LEXEND
+@import url(https://fonts.bunny.net/css?family=lexend:400);
+
+
 
 Changa One - for titles / Acme
 ```
