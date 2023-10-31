@@ -9,6 +9,9 @@ https://fortnitefontgenerator.com
 @import url(https://fonts.bunny.net/css?family=armata:400);
 
 
+GUDEA
+@import url(https://fonts.bunny.net/css?family=gudea:400);
+
 ACME
 
 @import url(https://fonts.bunny.net/css?family=acme:400);
