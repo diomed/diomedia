@@ -9,10 +9,7 @@ https://fortnitefontgenerator.com
 @import url(https://fonts.bunny.net/css?family=armata:400);
 
 Monolisa
-
-```
-<link href="https://fonts.cdnfonts.com/css/monolisa" rel="stylesheet">
-```
+`<link href="https://fonts.cdnfonts.com/css/monolisa" rel="stylesheet">`
 
 GUDEA
 @import url(https://fonts.bunny.net/css?family=gudea:400);
