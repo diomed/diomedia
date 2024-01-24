@@ -69,14 +69,8 @@ https://github.com/ertekinno/libre-caslon-condensed
 
 
 Atrament [premium]
-```
-https://nomail.com.ua/api/font-face/42592.css?__cf_chl_tk=vNItQ7iMylH4DaV6bNlwX0_EMWH6wjLhsK6HZiZCJ8Q-1694333687-0-gaNycGzNHVA
-```
-
 Artament light
-```
-https://nomail.com.ua/api/font-face/42589.css
-```
+
 Zilla Slab
 
 ```
